@@ -1,8 +1,8 @@
-#requirements
+# requirements
 - pip: `pip install pip`
 - fontTools package: `pip install fonttools`
 - brotli: `pip install brotli`
 
-#structure
+# structure
 - 'input' folder
 - 'output' folder
